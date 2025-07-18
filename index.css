@@ -1,0 +1,64 @@
+h1{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    display:inline-block;
+    position: absolute;
+    
+
+    
+   
+
+
+
+}
+.container{
+    position:relative;
+   
+ 
+
+}
+.img img{
+    overflow:hidden;
+    width:100%;
+    height:200px;
+    top:30px;
+
+
+
+
+}
+
+.brushes{
+    font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+background-color: mediumspringgreen;
+
+}
+h3{
+    font-family: Helvetica;
+}
+ a {
+    font-family: Helvetica;
+font-weight: bold;
+color: blue;
+
+}
+.frames{
+    font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+background-color: lightcoral;
+}
+.paint{
+    font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+background-color: skyblue;
+
+}
